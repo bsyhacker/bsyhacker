@@ -1,3 +1,6 @@
+#借鉴大佬的
+
+
 # imaotai
 i茅台app 每日自动预约 抢茅台
 
@@ -66,7 +69,7 @@ sendNotify.js是通知文件按需修改
 ## 4.重启 imaotai
 
 
-## 5.点个star 再进  https://github.com/insoxin/     点follow 关注一下  项目被ban了 我会第一时间更新 新项目
+## 5.点个star 再进  https://github.com/bsyhacker/    点follow 关注一下  项目被ban了 我会第一时间更新 新项目
 
 
 
